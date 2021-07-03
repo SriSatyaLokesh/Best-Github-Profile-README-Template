@@ -98,7 +98,7 @@
 
 <p align="center">
 <a href="https://srisatyalokesh.github.io"><img src="https://img.shields.io/badge/-Website-00A5E9?style=flat&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:srisatyalokesh2.12@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/SriSatyaLokesh"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/srisatyalokesh"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/srisatyalokesh2.12"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
